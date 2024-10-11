@@ -1,7 +1,7 @@
 # Blog Preview Card
 
-![Design preview for the Blog Preview Card](![active-states](https://github.com/user-attachments/assets/2c6a9044-d211-4978-804f-4f1bc275d74e)
-.jpg)
+![active-states](https://github.com/user-attachments/assets/2c6a9044-d211-4978-804f-4f1bc275d74e)
+
 
 ## Welcome! 👋
 
