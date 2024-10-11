@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+
+    <head>
+      <meta charset="UTF-8">
+      <meta name="viewport" content="width=device-width, initial-scale=1.0"> <!-- displays site properly based on user's device -->
+    
+      <link rel="icon" type="image/png" sizes="32x32" href="./assets/images/favicon-32x32.png">
+     <script src="https://cdn.tailwindcss.com">
+     </script>
+     <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" rel="stylesheet"/>
+     <link href="https://fonts.googleapis.com/css2?family=Figtree:wght@500;800&amp;display=swap" rel="stylesheet"/>
+     <style>
+      body {
+               font-family: 'Figtree', sans-serif;
+               background-color: hsl(47, 88%, 63%);
+           }
+           .custom-shadow {
+               box-shadow: 10px 10px 0px 0px hsl(0, 0%, 7%);
+           }
+           .attribution { 
+               font-size: 11px; 
+               text-align: center; 
+           }
+           .attribution a { 
+               color: hsl(228, 45%, 44%); 
+           }
+           .hover-pointer:hover {
+            cursor: pointer;
+            color: #F4D04E;
+          }
+     </style>
+     <title>Blog Card</title>
+    </head>
+    <body class="flex items-center justify-center min-h-screen">
+     <div class="bg-white rounded-lg custom-shadow p-4 max-w-sm">
+      <img alt="Abstract geometric shapes in yellow, black, and white" class="rounded-t-lg" height="400" src="./assets/images/illustration-article.svg" width="600"/>
+      <div class="p-4">
+       <span class="bg-yellow-500 text-white text-xs font-semibold px-2 py-1 rounded">
+        Learning
+       </span>
+       <p class="text-gray-500 text-sm mt-2">
+        Published 21 Dec 2023
+       </p>
+       <h2 class="text-xl font-semibold mt-2 hover-pointer">
+        HTML &amp; CSS foundations
+       </h2>
+       <p class="text-gray-700 mt-2">
+        These languages are the backbone of every website, defining structure, content, and presentation.
+       </p>
+       <div class="flex items-center mt-4">
+        <img alt="Profile picture of Greg Hooper" class="w-8 h-8 rounded-full" height="100" src="./assets/images/image-avatar.webp" width="100"/>
+        <p class="text-gray-700 text-sm ml-2">
+         Greg Hooper
+        </p>
+       </div>
+       <div class="attribution mt-4">
+        Challenge by
+        <a href="https://www.frontendmentor.io?ref=challenge" target="_blank" rel="noopener">
+         Frontend Mentor
+        </a>
+        . Coded by
+        <a href="#">
+         SEBAANA YUSUF SALIM
+        </a>
+        .
+       </div>
+      </div>
+     </div>
+    </body>
+   </html>
