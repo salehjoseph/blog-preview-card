@@ -56,8 +56,8 @@ In the future, I plan to:
 
 Feel free to reach out if you have any questions or feedback:
 
-- [GitHub](https://github.com/yourusername)
-- [LinkedIn](https://linkedin.com/in/yourprofile)
+- [GitHub](https://github.com/salehjoseph)
+- [LinkedIn](https://linkedin.com/in/sebaana-yusuf-215839247/)
 
 Thank you for checking out my project! I hope you find it helpful and inspiring.
 
